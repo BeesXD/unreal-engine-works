@@ -1,0 +1,1324 @@
+﻿Log file open, 04/06/22 09:09:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyFirstProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318631
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal engine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.06-06.10.04:714][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.06-06.10.04:715][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.06-06.10.04:716][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.06-06.10.04:716][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.06-06.10.04:716][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.06-06.10.04:716][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.06-06.10.04:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:716][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.06-06.10.04:764][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.06-06.10.04:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.06-06.10.04:766][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.06-06.10.04:767][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.06-06.10.04:768][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.06-06.10.04:768][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.06-06.10.04:769][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.06-06.10.04:769][  0]LogHAL: Display: Platform has ~ 16 GB [17056833536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.06-06.10.04:769][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.06-06.10.04:769][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.06-06.10.04:769][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.06-06.10.04:770][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.06-06.10.04:771][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Scalability.ini]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.06-06.10.04:772][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.06-06.10.04:789][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.06-06.10.04:789][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.06-06.10.04:789][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.06-06.10.04:789][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Engine.ini]
+[2022.04.06-06.10.04:790][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Config/Windows/Editor.ini]
+[2022.04.06-06.10.04:790][  0]LogInit: Computer: BEESPC
+[2022.04.06-06.10.04:790][  0]LogInit: User: Kevin
+[2022.04.06-06.10.04:790][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.06-06.10.04:790][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.06-06.10.04:790][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.06-06.10.04:790][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.06-06.10.04:790][  0]LogMemory: Process Physical Memory: 139.46 MB used, 139.47 MB peak
+[2022.04.06-06.10.04:790][  0]LogMemory: Process Virtual Memory: 124.33 MB used, 124.33 MB peak
+[2022.04.06-06.10.04:790][  0]LogMemory: Physical Memory: 5584.58 MB used,  10682.09 MB free, 16266.66 MB total
+[2022.04.06-06.10.04:790][  0]LogMemory: Virtual Memory: 134207456.00 MB used,  10272.62 MB free, 134217728.00 MB total
+[2022.04.06-06.10.04:817][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.06-06.10.06:547][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.06-06.10.06:570][  0]LogInit: Using OS detected language (en-US).
+[2022.04.06-06.10.06:571][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.06-06.10.06:697][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.06-06.10.07:738][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.06-06.10.07:917][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-06.10.08:184][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.06-06.10.08:184][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.06-06.10.09:291][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.06-06.10.09:377][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.06-06.10.09:377][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.06-06.10.09:377][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.06-06.10.09:377][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.06-06.10.10:580][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.04.06-06.10.10:580][  0]LogD3D11RHI:       4018/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.06-06.10.10:596][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2022.04.06-06.10.10:596][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     DeviceId    : 1c8c
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     SubSysId    : 838f103c
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     SharedSystemMemory : 8528416768 bytes
+[2022.04.06-06.10.10:599][  0]LogD3D11RHI:     AdapterLuid : 0 107643
+[2022.04.06-06.10.10:624][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.06-06.10.10:624][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2022.04.06-06.10.10:624][  0]LogWindows: EnumDisplayDevices:
+[2022.04.06-06.10.10:624][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.04.06-06.10.10:625][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.04.06-06.10.10:625][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.04.06-06.10.10:626][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.04.06-06.10.10:627][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.04.06-06.10.10:627][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.04.06-06.10.10:628][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.04.06-06.10.10:628][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.06-06.10.10:628][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.04.06-06.10.10:628][  0]LogD3D11RHI:   Driver Version: 497.33 (internal:30.0.14.9733, unified:497.33)
+[2022.04.06-06.10.10:628][  0]LogD3D11RHI:      Driver Date: 12-16-2021
+[2022.04.06-06.10.10:629][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     DeviceId    : 1c8c
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     SubSysId    : 838f103c
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     SharedSystemMemory : 8528416768 bytes
+[2022.04.06-06.10.10:629][  0]LogD3D11RHI:     AdapterLuid : 0 107643
+[2022.04.06-06.10.10:760][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.06-06.10.10:775][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.06-06.10.10:775][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.06-06.10.11:072][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.06-06.10.11:258][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.06-06.10.12:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.06-06.10.12:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.06-06.10.12:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.06-06.10.12:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.06-06.10.12:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.06-06.10.12:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.06-06.10.12:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.06-06.10.12:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.06-06.10.12:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.06-06.10.12:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.06-06.10.12:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.06-06.10.12:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.06-06.10.12:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.06-06.10.12:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.06-06.10.12:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.06-06.10.12:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.06-06.10.13:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.06-06.10.13:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.06-06.10.13:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.06-06.10.13:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.06-06.10.13:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.06-06.10.13:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.06-06.10.13:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.06-06.10.13:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.06-06.10.13:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.06-06.10.13:216][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.06-06.10.13:348][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.06-06.10.14:021][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.06-06.10.17:210][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.06-06.10.17:210][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Intermediate/Shaders/WorkingDirectory/17380/).
+[2022.04.06-06.10.17:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kevin/AppData/Local/Temp/UnrealShaderWorkingDir/1A97D7714D36C8888A61C58D525671F2/'.
+[2022.04.06-06.10.17:211][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.06-06.10.17:212][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.06-06.10.17:212][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.06-06.10.21:975][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.06-06.10.22:116][  0]LogDerivedDataCache: Loaded boot cache 0.14s 94MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.06-06.10.22:116][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kevin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.06-06.10.22:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.06-06.10.22:117][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.06-06.10.22:117][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.06-06.10.22:117][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.06-06.10.22:265][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.06-06.10.22:265][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.06-06.10.22:265][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.06-06.10.22:291][  0]LogDerivedDataCache: Speed tests for C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.04.06-06.10.22:291][  0]LogDerivedDataCache: Display: Performance to C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.38ms. RandomReadSpeed=99.04MBs, RandomWriteSpeed=77.37MBs. Assigned SpeedClass 'Local'
+[2022.04.06-06.10.22:292][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.06-06.10.22:292][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.06-06.10.22:292][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.06-06.10.22:401][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.06-06.10.22:467][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.06-06.10.23:450][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
+[2022.04.06-06.10.24:628][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.06-06.10.24:628][  0]LogInit: Active device profile: [000002863BF68900][000002863B5DD600 49] Windows
+[2022.04.06-06.10.24:628][  0]LogInit: Profiles: [000002863BF68900][000002863B5DD600 49] Windows, [000002863BF23800][000002863B5E5780 49] WindowsNoEditor, [000002863BF6B500][000002863B5E9900 49] WindowsServer, [000002863BF20E00][000002863B5EDA80 49] WindowsClient, [000002863BF6B800][000002863B5F1C00 49] IOS, [000002863BF22800][000002863B5F4200 49] iPadAir, [000002863BF6A000][000002863B5F8380 49] iPadAir2, [000002863BEB4A00][000002863B600640 49] IPadPro, [000002863BEB4B00][000002863B5FC680 49] iPadAir3, [000002863BF21900][000002863B5E07C0 49] iPadAir4, [000002863BEB7400][000002863B604900 49] iPadMini2, [000002863BF22A00][000002863B608A40 49] iPadMini3, [000002863BEB5700][000002863B60CB80 49] iPadMini4, [000002863BF69100][000002863B614D00 49] iPadMini5, [000002863BEF0300][000002863B61CFC0 49] iPhone6, [000002863BEF0400][000002863B619000 49] iPodTouch6, [000002863BEB3F00][000002863B6B72C0 49] iPhone7, [000002863BEB3E00][000002863B621300 49] iPodTouch7, [000002863BF22000][000002863B6BB480 49] iPhone5S, [000002863BEB1A00][000002863C6D1600 49] iPhone6Plus, [000002863BEF0200][000002863C6D5780 49] iPhone6S, [000002863BEB0600][000002863C6D9900 49] iPhone6SPlus, [000002863BEF2900][000002863C6DDA80 49] iPhone7Plus, [000002863BEB3100][000002863C6E1C00 49] iPhoneSE, [000002863BEF2200][000002863C6E4200 49] iPhone8, [000002863BEB3B00][000002863C6E8380 49] iPhone8Plus, [000002863BEF0A00][000002863C6EC500 49] iPhoneX, [000002863BEB1400][000002863C6F0680 49] iPhoneXS, [000002863BEF3900][000002863C6F4800 49] iPhoneXSMax, [000002863BEB0900][000002863B610940 49] iPhoneXR, [000002863BEF2F00][000002863C6F8A80 49] iPhone11, [000002863BEB1300][000002863C6FCBC0 49] iPhone11Pro, [000002863BEF1000][000002863C700D00 49] iPhone11ProMax, [000002863BEB2A00][000002863C708E80 49] iPhoneSE2, [000002863BEF1400][000002863C70D000 49] iPhone12Mini, [000002863BEB2400][000002863C711180 49] iPhone12, [000002863BEF0D00][000002863C715300 49] iPhone12Pro, [000002863BEB2B00][000002863C719480 49] iPhone12ProMax, [000002863BEF3000][000002863C71D600 49] iPadPro105, [000002863BEB0700][000002863C721780 49] iPadPro129, [000002863BEF2800][000002863C725900 49] iPadPro97, [000002863BEB2600][000002863C729A80 49] iPadPro2_129, [000002863BEF3C00][000002863C72DC00 49] iPad5, [000002863BEB2200][000002863C730200 49] iPad6, [000002863BEF0F00][000002863C734380 49] iPad7, [000002863BEB2D00][000002863C738500 49] iPad8, [000002863BEF1100][000002863C73C680 49] iPadPro11, [000002863BEB1600][000002863C740800 49] iPadPro2_11, [000002863BEF3400][000002863C744980 49] iPadPro3_129, [000002863BEB2800][000002863C748B00 49] iPadPro4_129, [000002863BEF3A00][000002863C704C40 49] AppleTV, [000002863BEB2100][000002863C74CD80 49] AppleTV4K, [000002863BEF1F00][000002863C750EC0 49] TVOS, [000002863BEB3400][000002863C759040 49] Mac, [000002863BEF3800][000002863C75D1C0 49] MacClient, [000002863BEB1E00][000002863C761340 49] MacNoEditor, [000002863BEF3F00][000002863C7654C0 49] MacServer, [000002863BEB3500][000002863C769640 49] Linux, [000002863BEF0C00][000002863C76D7C0 49] LinuxAArch64, [000002863BEB2F00][000002863C771940 49] LinuxNoEditor, [000002863BEF0B00][000002863C775AC0 49] LinuxAArch64NoEditor, [000002863BEB3700][000002863C7780C0 49] LinuxClient, [000002863BEF1A00][000002863C77C240 49] LinuxAArch64Client, [000002863BEB1000][000002863C7803C0 49] LinuxServer, [000002863BEF2500][000002863C784540 49] LinuxAArch64Server, [000002863BEB1900][000002863C7886C0 49] Android, [000002863BEF1300][000002863C78C840 49] Android_Low, [000002863BEB2700][000002863C7909C0 49] Android_Mid, [000002863BEF2B00][000002863C794B40 49] Android_High, [000002863BEB3800][000002863C798CC0 49] Android_Default, [000002863BEF1600][000002863C754E00 49] Android_Adreno4xx, [000002863BEB1500][000002863C79CF40 49] Android_Adreno5xx_Low, [000002863BEB7600][000002863C7A1080 49] Android_Adreno5xx, [000002863BF21800][000002863C7A51C0 49] Android_Adreno6xx, [000002863BEB5200][000002863C7AD340 49] Android_Adreno6xx_Vulkan, [000002863BF23C00][000002863C7B14C0 49] Android_Mali_T6xx, [000002863BEB5100][000002863C7B5640 49] Android_Mali_T7xx, [000002863BF21600][000002863C7B97C0 49] Android_Mali_T8xx, [000002863BEB5E00][000002863C7BD940 49] Android_Mali_G71, [000002863BF20500][000002863C7C1AC0 49] Android_Mali_G72, [000002863BEB4800][000002863C7C40C0 49] Android_Mali_G72_Vulkan, [000002863BF21300][000002863C7C8240 49] Android_Mali_G76, [000002863BEB4100][000002863C7CC3C0 49] Android_Mali_G76_Vulkan, [000002863BF21F00][000002863C7D0540 49] Android_Mali_G77, [000002863BEB5000][000002863C7D46C0 49] Android_Mali_G77_Vulkan, [000002863BF20A00][000002863C7D8840 49] Android_Mali_G78, [000002863BEB6C00][000002863C7DC9C0 49] Android_Mali_G78_Vulkan, [000002863BF23600][000002863C7E0B40 49] Android_Mali_G710, [000002863BEB6A00][000002863C7E4CC0 49] Android_Mali_G710_Vulkan, [000002863BF23F00][000002863C7E8E40 49] Android_Vulkan_SM5, [000002863BEB7B00][000002863C7A8F80 49] Android_PowerVR_G6xxx, [000002863BF23B00][000002863C7ED0C0 49] Android_PowerVR_GT7xxx, [000002863BEB7900][000002863C7F1200 49] Android_PowerVR_GE8xxx, [000002863BF20C00][000002863C7F5340 49] Android_PowerVR_GM9xxx, [000002863BEB6700][000002863C7FD4C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002863BF22700][000002863C801640 49] Android_TegraK1, [000002863BEB4900][000002863C8057C0 49] Android_Unknown_Vulkan, [000002863BF21D00][000002863C809940 49] Lumin, [000002863BEB4500][000002863C80DAC0 49] Lumin_Desktop, [000002863BF23300][000002863C8100C0 49] HoloLens, 
+[2022.04.06-06.10.26:408][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.06-06.10.26:408][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.06-06.10.26:408][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.06-06.10.26:408][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.06-06.10.26:425][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.06-06.10.26:743][  0]LogNetVersion: MyFirstProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1923614652)
+[2022.04.06-06.10.34:734][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Intermediate/CachedAssetRegistry.bin.tmp
+[2022.04.06-06.10.34:734][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.06-06.10.35:230][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.06-06.10.35:257][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.04.06-06.10.35:257][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.04.06-06.10.35:257][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.06-06.10.39:476][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 58DF60BE454150D756A4B188A1157D89 | Instance: F3AA5D0045DB84A5D1A62FA522F4E2DB (BEESPC-17380).
+[2022.04.06-06.10.41:099][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.06-06.10.41:135][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.06-06.10.41:409][  0]LogPython: Using Python 3.7.7
+[2022.04.06-06.10.43:476][  0]SourceControl: Source control is disabled
+[2022.04.06-06.10.43:476][  0]SourceControl: Source control is disabled
+[2022.04.06-06.10.43:804][  0]SourceControl: Source control is disabled
+[2022.04.06-06.10.43:818][  0]SourceControl: Source control is disabled
+[2022.04.06-06.10.43:897][  0]SourceControl: Source control is disabled
+[2022.04.06-06.10.44:064][  0]LogUProjectInfo: Found projects:
+[2022.04.06-06.10.45:390][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.06-06.10.45:732][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.06-06.10.45:732][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.06-06.10.46:553][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.06-06.10.46:562][  0]LogCollectionManager: Loaded 0 collections in 0.001331 seconds
+[2022.04.06-06.10.46:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Saved/Collections/' took 0.02s
+[2022.04.06-06.10.46:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Content/Developers/Kevin/Collections/' took 0.00s
+[2022.04.06-06.10.46:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Content/Collections/' took 0.00s
+[2022.04.06-06.10.46:691][  0]LogOcInput: OculusInput pre-init called
+[2022.04.06-06.10.48:131][  0]LogEngine: Initializing Engine...
+[2022.04.06-06.10.48:680][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.06-06.10.48:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.06-06.10.48:753][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.06-06.10.48:753][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.06-06.10.49:233][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.06-06.10.49:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.06-06.10.49:445][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.06-06.10.49:468][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.06-06.10.49:498][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.06-06.10.49:532][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.06-06.10.49:532][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.06-06.10.49:532][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.06-06.10.49:532][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.06-06.10.49:533][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.06-06.10.49:533][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.06-06.10.49:533][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.06-06.10.49:533][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.06-06.10.49:622][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.06-06.10.49:622][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.06-06.10.49:760][  0]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2022.04.06-06.10.49:763][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.06-06.10.49:766][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.06-06.10.49:766][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.06-06.10.49:767][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.06-06.10.49:767][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.06-06.10.49:767][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.06-06.10.49:768][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.06-06.10.49:768][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.06-06.10.49:768][  0]LogInit: FAudioDevice initialized.
+[2022.04.06-06.10.49:768][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.06-06.10.49:768][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.06-06.10.49:952][  0]LogDerivedDataCache: Saved boot cache 0.18s 94MB C:/Users/Kevin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.06-06.10.49:952][  0]LogInit: Texture streaming: Enabled
+[2022.04.06-06.10.49:964][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.04.06-06.10.49:970][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.06-06.10.49:970][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.06-06.10.49:981][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.06-06.10.52:572][  0]LogInit: Transaction tracking system initialized
+[2022.04.06-06.10.53:096][  0]BlueprintLog: New page: Editor Load
+[2022.04.06-06.10.56:142][  0]LocalizationService: Localization service is disabled
+[2022.04.06-06.10.57:442][  0]TimingProfiler: Initialize
+[2022.04.06-06.10.57:477][  0]TimingProfiler: OnSessionChanged
+[2022.04.06-06.10.57:487][  0]LoadingProfiler: Initialize
+[2022.04.06-06.10.57:489][  0]LoadingProfiler: OnSessionChanged
+[2022.04.06-06.10.57:502][  0]NetworkingProfiler: Initialize
+[2022.04.06-06.10.57:502][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.06-06.10.57:502][  0]MemoryProfiler: Initialize
+[2022.04.06-06.10.57:502][  0]MemoryProfiler: OnSessionChanged
+[2022.04.06-06.11.03:267][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.06-06.11.03:267][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.06-06.11.04:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Content/' took 0.01s
+[2022.04.06-06.11.11:360][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.06-06.11.11:423][  0]SourceControl: Source control is disabled
+[2022.04.06-06.11.11:423][  0]LogUnrealEdMisc: Loading editor; pre map load, took 100.514
+[2022.04.06-06.11.11:423][  0]Cmd: MAP LOAD FILE="C:/Users/Kevin/Documents/Unreal Projects/blueprintproj1/Content/MyFirstProject.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-06.11.11:424][  0]LightingResults: New page: Lighting Build
+[2022.04.06-06.11.11:426][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-06.11.11:624][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-06.11.11:777][  0]MapCheck: New page: Map Check
+[2022.04.06-06.11.11:777][  0]LightingResults: New page: Lighting Build
+[2022.04.06-06.11.12:453][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-06.11.12:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.06-06.11.14:125][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyFirstProject'.
+[2022.04.06-06.11.14:126][  0]LogAIModule: Creating AISystem for world MyFirstProject
+[2022.04.06-06.11.14:856][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-06.11.14:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.04.06-06.11.14:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-06.11.14:898][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2022.04.06-06.11.14:898][  0]LogFileHelpers: Loading map 'MyFirstProject' took 3.475
+[2022.04.06-06.11.16:862][  0]LogUnrealEdMisc: Total Editor Startup Time, took 105.952
+[2022.04.06-06.11.17:499][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-06.11.17:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-06.11.17:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-06.11.17:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-06.11.17:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0199 seconds. Added 3822 classes and 928 folders.
+[2022.04.06-06.11.17:797][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.04.06-06.11.18:016][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-06.11.18:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-06.11.18:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.06-06.11.18:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2022.04.06-06.11.18:122][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.06-06.11.18:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.06-06.11.18:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:122][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.06-06.11.18:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.04.06-06.11.18:188][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.06-06.11.18:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.06-06.11.18:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.06-06.11.18:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.04.06-06.11.18:233][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-06.11.18:233][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:233][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-06.11.18:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:233][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.06-06.11.18:233][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.04.06-06.11.18:375][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.06-06.11.18:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.06-06.11.18:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.06-06.11.18:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2022.04.06-06.11.18:457][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.06-06.11.18:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.06-06.11.18:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.06-06.11.18:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.04.06-06.11.18:515][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.06-06.11.18:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.06-06.11.18:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.06-06.11.18:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.04.06-06.11.18:576][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.06-06.11.18:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.06-06.11.18:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.06-06.11.18:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.04.06-06.11.18:610][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-06.11.18:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-06.11.18:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.06-06.11.18:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.04.06-06.11.18:636][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.06-06.11.18:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.06-06.11.18:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.06-06.11.18:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.04.06-06.11.18:651][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.06-06.11.18:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.06-06.11.18:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.06-06.11.18:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.04.06-06.11.18:703][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-06.11.18:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-06.11.18:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.06-06.11.18:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2022.04.06-06.11.18:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-06.11.18:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-06.11.18:706][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.06-06.11.18:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.04.06-06.11.18:740][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-06.11.18:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-06.11.18:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:740][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.06-06.11.18:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.04.06-06.11.18:750][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.06-06.11.18:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.06-06.11.18:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.06-06.11.18:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.04.06-06.11.18:771][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-06.11.18:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-06.11.18:771][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:771][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.06-06.11.18:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.04.06-06.11.18:774][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.06-06.11.18:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.06-06.11.18:774][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:774][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.06-06.11.18:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.04.06-06.11.18:800][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-06.11.18:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-06.11.18:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.06-06.11.18:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.04.06-06.11.18:810][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-06.11.18:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-06.11.18:810][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:810][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.06-06.11.18:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.04.06-06.11.18:822][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-06.11.18:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-06.11.18:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:823][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.06-06.11.18:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.04.06-06.11.18:839][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.06-06.11.18:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.06-06.11.18:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.06-06.11.18:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.04.06-06.11.18:864][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.06-06.11.18:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.06-06.11.18:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.06-06.11.18:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.04.06-06.11.18:919][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.06-06.11.18:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.06-06.11.18:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.06-06.11.18:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.04.06-06.11.18:954][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.06-06.11.18:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.18:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.06-06.11.18:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.18:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.06-06.11.18:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.04.06-06.11.19:000][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.06-06.11.19:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.19:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.06-06.11.19:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.19:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.06-06.11.19:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000232
+[2022.04.06-06.11.19:079][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.06-06.11.19:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.06-06.11.19:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.06-06.11.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.06-06.11.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.06-06.11.19:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2022.04.06-06.11.21:939][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.04.06-06.11.21:967][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.04.06-06.11.22:139][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.06-06.11.22:139][  0]LogLoad: (Engine Initialization) Total time: 111.23 seconds
+[2022.04.06-06.11.22:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.06-06.11.22:247][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.06-06.11.22:281][  0]LogSlate: Took 0.031231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.06-06.11.22:294][  0]LogSlate: Took 0.010508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.06-06.11.22:306][  0]LogSlate: Took 0.010389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.06-06.11.22:668][  0]LogRenderer: Reallocating scene render targets to support 912x424 Format 10 NumSamples 1 (Frame:1).
+[2022.04.06-06.11.23:489][  1]LogAssetRegistry: Asset discovery search completed in 60.0413 seconds
+[2022.04.06-06.11.23:549][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 0 (  Trying 54.146.200.7...)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.146.200.7) port 443 (#0))
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.11.50:517][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.11.50:518][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.11.50:518][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.11.50:518][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.11.50:518][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.11.50:518][ 83]LogHttp: Warning: 0000028630261600: libcurl info message cache 10 (Closing connection 0)
+[2022.04.06-06.11.50:850][ 84]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.12.50:712][263]LogHttp: Warning: 0000028630261D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 1 (  Trying 107.21.62.229...)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (107.21.62.229) port 443 (#1))
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.12.50:713][263]LogHttp: Warning: 0000028630261D00: libcurl info message cache 11 (Closing connection 1)
+[2022.04.06-06.12.51:045][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.13.50:668][442]LogHttp: Warning: 0000028630260100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.13.50:668][442]LogHttp: Warning: 0000028630260100: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.13.50:668][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.13.50:668][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 1 (  Trying 52.70.254.244...)
+[2022.04.06-06.13.50:668][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.70.254.244) port 443 (#2))
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: 0000028630260100: libcurl info message cache 11 (Closing connection 2)
+[2022.04.06-06.13.50:669][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 54.167.54.114...)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.167.54.114) port 443 (#3))
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.14.50:633][621]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 3)
+[2022.04.06-06.14.50:970][622]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 1 (  Trying 34.197.227.193...)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.197.227.193) port 443 (#4))
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: 00000286302F8F00: libcurl info message cache 11 (Closing connection 4)
+[2022.04.06-06.15.50:599][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 54.204.140.167...)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.204.140.167) port 443 (#5))
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.16.50:534][979]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 5)
+[2022.04.06-06.16.50:870][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 54.204.140.167...)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.204.140.167) port 443 (#6))
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 6)
+[2022.04.06-06.17.50:438][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 54.204.140.167...)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.204.140.167) port 443 (#7))
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.18.50:303][337]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 7)
+[2022.04.06-06.18.50:639][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (  Trying 3.211.126.10...)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.211.126.10) port 443 (#8))
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (Closing connection 8)
+[2022.04.06-06.19.50:915][518]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.20.50:786][697]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 34.206.43.254...)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.206.43.254) port 443 (#9))
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.20.50:787][697]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 9)
+[2022.04.06-06.20.51:120][698]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 34.206.43.254...)
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.206.43.254) port 443 (#10))
+[2022.04.06-06.21.50:312][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.21.50:313][875]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 10)
+[2022.04.06-06.21.50:646][876]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (  Trying 52.70.47.0...)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.47.0) port 443 (#11))
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.22.50:513][ 55]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (Closing connection 11)
+[2022.04.06-06.22.50:846][ 56]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 3.211.28.57...)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.211.28.57) port 443 (#12))
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.23.50:717][235]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 12)
+[2022.04.06-06.23.51:049][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.24.50:564][414]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.24.50:564][414]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.24.50:564][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 3.228.33.67...)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.228.33.67) port 443 (#13))
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 13)
+[2022.04.06-06.24.50:565][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 52.4.29.4...)
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.4.29.4) port 443 (#14))
+[2022.04.06-06.25.50:800][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 14)
+[2022.04.06-06.25.50:801][594]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 52.4.29.4...)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.4.29.4) port 443 (#15))
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 15)
+[2022.04.06-06.26.50:326][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (  Trying 54.158.240.126...)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.158.240.126) port 443 (#16))
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (Closing connection 16)
+[2022.04.06-06.27.50:541][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 1 (  Trying 3.91.210.239...)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.91.210.239) port 443 (#17))
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.28.50:471][131]LogHttp: Warning: 0000028630262B00: libcurl info message cache 11 (Closing connection 17)
+[2022.04.06-06.28.50:804][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 23.20.239.108...)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (23.20.239.108) port 443 (#18))
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.29.50:715][311]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 18)
+[2022.04.06-06.29.51:049][312]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 52.72.58.140...)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.72.58.140) port 443 (#19))
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.30.50:633][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.30.50:634][490]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 19)
+[2022.04.06-06.30.50:634][490]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 1 (  Trying 52.3.142.92...)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.3.142.92) port 443 (#20))
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.31.50:493][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.31.50:494][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.31.50:494][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.31.50:494][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.31.50:494][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.31.50:494][669]LogHttp: Warning: 0000028630260F00: libcurl info message cache 11 (Closing connection 20)
+[2022.04.06-06.31.50:829][670]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 1 (  Trying 52.3.142.92...)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.3.142.92) port 443 (#21))
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: 00000286302FB200: libcurl info message cache 11 (Closing connection 21)
+[2022.04.06-06.32.50:281][ 74]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 0 (  Trying 34.198.248.40...)
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.248.40) port 443 (#22))
+[2022.04.06-06.33.54:719][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: 0000028630260800: libcurl info message cache 10 (Closing connection 22)
+[2022.04.06-06.33.54:720][942]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.34.25:106][ 31]LogSlate: Took 0.285847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 1 (  Trying 34.199.85.81...)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.199.85.81) port 443 (#23))
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.34.50:605][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.34.50:606][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.34.50:606][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.34.50:606][109]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 11 (Closing connection 23)
+[2022.04.06-06.34.50:939][110]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.35.50:613][287]LogHttp: Warning: 000002865BDE8800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.35.50:613][287]LogHttp: Warning: 000002865BDE8800: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.35.50:613][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 1 (  Trying 52.22.216.45...)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.22.216.45) port 443 (#24))
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.35.50:614][287]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 11 (Closing connection 24)
+[2022.04.06-06.35.50:955][288]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 1 (  Trying 3.233.17.228...)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.233.17.228) port 443 (#25))
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: 000002865BDDB200: libcurl info message cache 11 (Closing connection 25)
+[2022.04.06-06.36.51:182][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 1 (  Trying 3.213.168.186...)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.213.168.186) port 443 (#26))
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.37.50:479][645]LogHttp: Warning: 000002865BDEB200: libcurl info message cache 11 (Closing connection 26)
+[2022.04.06-06.37.50:812][646]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.38.50:421][824]LogHttp: Warning: 000002865BDD8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 1 (  Trying 54.160.66.7...)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.160.66.7) port 443 (#27))
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: 000002865BDD8100: libcurl info message cache 11 (Closing connection 27)
+[2022.04.06-06.38.50:422][824]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.04.06-06.39.50:650][  4]LogHttp: Warning: 000002865BDE8800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 1 (  Trying 44.196.235.34...)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (44.196.235.34) port 443 (#28))
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: 000002865BDE8800: libcurl info message cache 11 (Closing connection 28)
+[2022.04.06-06.39.50:651][  4]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45E99FF3-4D2D-0EAC-6AB1-BD931E231D89%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c57922e64434cba8d6aebf9afa060636%7C02ba44f0fbc5495187ced258a9baea29%7C3f7d10b4-ca04-4802-bbea-55815974849c&AppEnvironment=datacollector-binary&UploadType=eteventstream
